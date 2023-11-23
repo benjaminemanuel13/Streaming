@@ -1,0 +1,4 @@
+Microsoft.Extensions.Primitives, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+  FxResources.Microsoft.Extensions.Primitives.SR.resources
+  Microsoft.Extensions.Primitives.Resources.Strings.resources
+  ILLink.Substitutions.xml

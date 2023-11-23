@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/ffmpeg/include/**",
+                "/usr/local/ffmpeg/include/libavcodec/**",
+                "/usr/local/ffmpeg/include/libavutil/**",
+                "/usr/include/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-arm",
+            "compilerArgs": []
+        }
+    ],
+    "version": 4
+}

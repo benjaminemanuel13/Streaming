@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(gdb) Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "C:\\Users\\Ben Emanuel\\source\\$FFMpeg\\capture\\encode.exe",
+            //"args": ["C:\\Users\\Ben Emanuel\\source\\$FFMpeg\\capture\\abso.wav", "C:\\Users\\Ben Emanuel\\source\\$FFMpeg\\capture\\abso.mp3"],
+            //"args": ["audio=Microphone (HD Pro Webcam C920)", "C:\\Users\\Ben Emanuel\\source\\$FFMpeg\\capture\\abso.wav"],
+            "args": ["audio=Microphone (2- High Definition Audio Device)", "C:\\Users\\Ben Emanuel\\source\\$FFMpeg\\capture\\abso.wav", "C:\\Users\\Ben Emanuel\\source\\$FFMpeg\\capture\\temp.pcm"],
+            
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\msys64\\mingw64\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}

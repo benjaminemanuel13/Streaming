@@ -1,0 +1,1 @@
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\StreamingClientLinux.UWP.csproj;x86

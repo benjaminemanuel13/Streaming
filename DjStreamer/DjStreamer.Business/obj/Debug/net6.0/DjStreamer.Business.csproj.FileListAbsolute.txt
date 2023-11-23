@@ -1,0 +1,42 @@
+C:\Users\Ben Emanuel\source\repos\$$Audio\DjStreamer\DjStreamer.Business\bin\Debug\net6.0\DjStreamer.Business.deps.json
+C:\Users\Ben Emanuel\source\repos\$$Audio\DjStreamer\DjStreamer.Business\bin\Debug\net6.0\DjStreamer.Business.dll
+C:\Users\Ben Emanuel\source\repos\$$Audio\DjStreamer\DjStreamer.Business\bin\Debug\net6.0\ref\DjStreamer.Business.dll
+C:\Users\Ben Emanuel\source\repos\$$Audio\DjStreamer\DjStreamer.Business\bin\Debug\net6.0\DjStreamer.Business.pdb
+C:\Users\Ben Emanuel\source\repos\$$Audio\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.csproj.AssemblyReference.cache
+C:\Users\Ben Emanuel\source\repos\$$Audio\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben Emanuel\source\repos\$$Audio\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.AssemblyInfoInputs.cache
+C:\Users\Ben Emanuel\source\repos\$$Audio\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.AssemblyInfo.cs
+C:\Users\Ben Emanuel\source\repos\$$Audio\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ben Emanuel\source\repos\$$Audio\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.dll
+C:\Users\Ben Emanuel\source\repos\$$Audio\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\ref\DjStreamer.Business.dll
+C:\Users\Ben Emanuel\source\repos\$$Audio\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\bin\Debug\net6.0\DjStreamer.Business.deps.json
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\bin\Debug\net6.0\DjStreamer.Business.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\bin\Debug\net6.0\ref\DjStreamer.Business.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\bin\Debug\net6.0\DjStreamer.Business.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\bin\Debug\net6.0\DjStreamer.Data.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\bin\Debug\net6.0\DjStreamer.Data.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.csproj.AssemblyReference.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.AssemblyInfoInputs.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.AssemblyInfo.cs
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.csproj.CopyComplete
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\ref\DjStreamer.Business.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.pdb
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\bin\Debug\net6.0\DjStreamer.Business.deps.json
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\bin\Debug\net6.0\DjStreamer.Business.dll
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\bin\Debug\net6.0\DjStreamer.Business.pdb
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\bin\Debug\net6.0\DjStreamer.Data.dll
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\bin\Debug\net6.0\DjStreamer.Data.pdb
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.csproj.AssemblyReference.cache
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.AssemblyInfoInputs.cache
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.AssemblyInfo.cs
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.csproj.CoreCompileInputs.cache
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.csproj.CopyComplete
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.dll
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\refint\DjStreamer.Business.dll
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\DjStreamer.Business.pdb
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Business\obj\Debug\net6.0\ref\DjStreamer.Business.dll

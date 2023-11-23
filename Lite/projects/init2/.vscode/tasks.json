@@ -1,0 +1,43 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: gcc build active file",
+			"command": "/usr/bin/gcc",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-g",
+				//"-shared",
+				"${file}",
+				"-o",
+				"${fileDirname}/${fileBasenameNoExtension}.out",
+				"-I/usr/local/ffmpeg/include",
+				"-Wall",
+				"-L/usr/local/ffmpeg/lib",
+				"-lavcodec",
+				"-lavdevice",
+				"-lavfilter",
+				"-lavformat",
+				"-lavutil",
+				"-lpostproc",
+				"-lswresample",
+				"-lswscale",
+				"-lpthread",
+				"-lm",
+				"-fpic"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "compiler: /usr/bin/gcc"
+		}
+	]
+}

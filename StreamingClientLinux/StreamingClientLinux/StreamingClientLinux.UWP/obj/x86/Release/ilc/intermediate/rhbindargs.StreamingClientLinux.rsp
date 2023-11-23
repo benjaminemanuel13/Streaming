@@ -1,0 +1,19 @@
+﻿/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\Ben Emanuel\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.9-rel-29512-01\tools\x86\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\x86\Release\ilc\intermediate\MDIL\StreamingClientLinux.mdilexe"
+"/i:C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\x86\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\x86\Release\ilc\intermediate\Native\StreamingClientLinux.exe"
+"/pdbAltPath:C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\bin\x86\Release\ilc"
+"/res:C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\x86\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\Ben Emanuel\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29512-01\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"
+"/sourcelink:C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\x86\Release\ilc\intermediate\ILTransformed\Uno.Core.Extensions.Logging.Singleton.srclink"
+"/sourcelink:C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\x86\Release\ilc\intermediate\ILTransformed\Uno.Foundation.Logging.srclink"
+"/sourcelink:C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\x86\Release\ilc\intermediate\ILTransformed\Uno.UI.Toolkit.srclink"

@@ -1,0 +1,19 @@
+ 
+ Standard
+ ./configure --enable-shared --enable-swscale --enable-gpl --enable-nonfree --enable-pic --prefix=/usr/local/ffmpeg --extra-ldflags=-L/usr/lame/libs --extra-cflags=-I/usr/lame --enable-version3 --enable-postproc --enable-avisynth --enable-libmp3lame --enable-parser=aac,pcm_s16le,wmav2
+
+V2
+./configure --enable-shared --enable-swscale --enable-gpl --enable-pic --prefix=/usr/local/ffmpeg --extra-ldflags=-L/usr/local/lib --extra-cflags=-I/usr/local/include/lame --enable-version3 --enable-postproc --enable-avisynth --enable-libmp3lame --enable-parser=aac,pcm_s16le,wmav2
+
+
+Minimal
+  --enable-shared --prefix=/usr/local/ffmpeg --extra-ldflags=-L/usr/lame/libs --extra-cflags=-I/usr/lame --enable-libmp3lame
+
+
+
+Full from FFPLay
+./configure --enable-shared --prefix=/usr/local/ffmpeg --extra-ldflags=-L/usr/lame/libs --extra-cflags=-I/usr/lame --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libsrt --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libgsm --enable-librav1e --enable-libsvtav1 --disable-w32threads --enable-libmfx --enable-ffnvcodec --enable-cuda-llvm --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt --enable-amf
+
+./configure 
+
+grep --null-data 'ff_.*_parser' ffmpeg | tr '\0' '\n' | head ff_aac_latm_parser ff_aac_parser ff_ac3_parser ff_adx_parser ff_bmp_parser ff_cavsvideo_parser ff_cook_parser ff_dca_parser ff_dirac_parser ff_dnxhd_parser

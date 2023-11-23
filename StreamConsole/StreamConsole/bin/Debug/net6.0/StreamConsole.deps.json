@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StreamConsole/1.0.0": {
+        "dependencies": {
+          "StreamLibrary": "1.0.0"
+        },
+        "runtime": {
+          "StreamConsole.dll": {}
+        }
+      },
+      "StreamLibrary/1.0.0": {
+        "runtime": {
+          "StreamLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StreamLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

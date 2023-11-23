@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamConsole", "StreamConsole\StreamConsole.csproj", "{0E42A6BD-7E87-46A0-99B9-D6275586ABE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamLibrary", "StreamLibrary\StreamLibrary.csproj", "{7B0D07AD-8A80-4878-8A4A-A28207CE223B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E42A6BD-7E87-46A0-99B9-D6275586ABE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E42A6BD-7E87-46A0-99B9-D6275586ABE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E42A6BD-7E87-46A0-99B9-D6275586ABE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E42A6BD-7E87-46A0-99B9-D6275586ABE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B0D07AD-8A80-4878-8A4A-A28207CE223B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B0D07AD-8A80-4878-8A4A-A28207CE223B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B0D07AD-8A80-4878-8A4A-A28207CE223B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0D07AD-8A80-4878-8A4A-A28207CE223B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55FB6157-80A4-45DE-A1C6-81D4B563D98C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8de7e2c5-d8b3-4492-aea6-a862519094eb": {
+      "ProjectGuid": "8de7e2c5-d8b3-4492-aea6-a862519094eb",
+      "DisplayName": "DjStreamer.Data",
+      "ColorIndex": 0
+    },
+    "778b81cf-b96b-4756-9453-782679bb0fd2": {
+      "ProjectGuid": "778b81cf-b96b-4756-9453-782679bb0fd2",
+      "DisplayName": "DjStreamer",
+      "ColorIndex": 1
+    },
+    "c1be8ed4-8319-41f5-998e-3fdd39caa088": {
+      "ProjectGuid": "c1be8ed4-8319-41f5-998e-3fdd39caa088",
+      "DisplayName": "DjStreamer.Business",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

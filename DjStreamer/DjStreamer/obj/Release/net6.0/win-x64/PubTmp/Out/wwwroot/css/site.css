@@ -1,0 +1,32 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: #CBBFE7;
+}
+
+.smile {
+    font-family: serpentine;
+    font-size: 30px;
+    color: black;
+}
+
+@font-face {
+    font-family: "serpentine";
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fonts/serpentine-bold.ttf') format('truetype'), url('../fonts/serpentine-bold.otf') format('opentype');
+}

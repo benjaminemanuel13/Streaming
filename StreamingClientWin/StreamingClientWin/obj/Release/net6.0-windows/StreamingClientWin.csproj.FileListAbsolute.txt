@@ -1,0 +1,60 @@
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\avcodec-58.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\avdevice-58.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\avfilter-7.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\avformat-58.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\avutil-56.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\postproc-55.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\stream.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\swresample-3.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\swscale-5.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\StreamingClientWin.exe
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\StreamingClientWin.deps.json
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\StreamingClientWin.runtimeconfig.json
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\StreamingClientWin.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\ref\StreamingClientWin.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\StreamingClientWin.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\StreamLibrary.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\StreamLibrary.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.csproj.AssemblyReference.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.Forms.MainForm.resources
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.csproj.GenerateResource.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.AssemblyInfoInputs.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.AssemblyInfo.cs
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.csproj.CoreCompileInputs.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.csproj.CopyComplete
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\ref\StreamingClientWin.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.genruntimeconfig.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\avcodec-58.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\avdevice-58.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\avfilter-7.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\avformat-58.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\avutil-56.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\postproc-55.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\swresample-3.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\swscale-5.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\stream.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\StreamingClientWin.exe
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\StreamingClientWin.deps.json
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\StreamingClientWin.runtimeconfig.json
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\StreamingClientWin.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\StreamingClientWin.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\StreamLibrary.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\bin\Release\net6.0-windows\StreamLibrary.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.csproj.AssemblyReference.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.Forms.MainForm.resources
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.csproj.GenerateResource.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.AssemblyInfoInputs.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.AssemblyInfo.cs
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.csproj.CoreCompileInputs.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.csproj.CopyComplete
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\refint\StreamingClientWin.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\StreamingClientWin.genruntimeconfig.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientWin\StreamingClientWin\obj\Release\net6.0-windows\ref\StreamingClientWin.dll

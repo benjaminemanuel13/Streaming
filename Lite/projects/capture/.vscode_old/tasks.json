@@ -1,0 +1,86 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "Initial",
+			"command": "C:\\msys64\\mingw64\\bin\\gcc.exe",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-IC:/msys64/usr/local/ffmpeg/include",
+				"-Wall",
+				"-g",
+				"-lpthread",
+				"-c",
+				"-o",
+				"${fileBasenameNoExtension}.o",
+				"${fileBasenameNoExtension}.c"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "compiler: C:\\msys64\\mingw64\\bin\\gcc.exe"
+		},
+		{
+			"type": "cppbuild",
+			"label": "Final",
+			"command": "C:\\msys64\\mingw64\\bin\\gcc.exe",
+			"args": [
+				"-fpic",
+				"-shared",
+				"${fileBasenameNoExtension}.o",
+				"-LC:/msys64/usr/local/ffmpeg/lib",
+				"-lavdevice",
+				"-lpsapi",
+				"-lstrmiids",
+				"-luuid",
+				"-loleaut32",
+				"-lshlwapi",
+				"-lgdi32",
+				"-lvfw32",
+				"-LC:/msys64/mingw64/lib",
+				"-lavfilter",
+				"-lavformat",
+				"-lbz2",
+				"-lsecur32",
+				"-lws2_32",
+				"-lavcodec",
+				"-liconv",
+				"-llzma",
+				"-lz",
+				"-lole32",
+				"-lswresample",
+				"-lswscale",
+				"-lavutil",
+				"-lm",
+				"-luser32",
+				"-lbcrypt",
+				"-lm",
+				"-o",
+				"stream.dll"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "compiler: C:\\msys64\\mingw64\\bin\\gcc.exe"
+		},
+		{
+			"label": "Do All",
+			"dependsOn": ["Initial", "Final"]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)uno.sourcegenerationtasks\4.0.0\build\netstandard1.0\Uno.SourceGenerationTasks.targets" Condition="Exists('$(NuGetPackageRoot)uno.sourcegenerationtasks\4.0.0\build\netstandard1.0\Uno.SourceGenerationTasks.targets')" />
+    <Import Project="$(NuGetPackageRoot)uno.ui\4.1.8\buildTransitive\netstandard2.0\Uno.UI.targets" Condition="Exists('$(NuGetPackageRoot)uno.ui\4.1.8\buildTransitive\netstandard2.0\Uno.UI.targets')" />
+    <Import Project="$(NuGetPackageRoot)uno.ui.runtime.skia.gtk\4.1.8\buildTransitive\Uno.UI.Runtime.Skia.Gtk.targets" Condition="Exists('$(NuGetPackageRoot)uno.ui.runtime.skia.gtk\4.1.8\buildTransitive\Uno.UI.Runtime.Skia.Gtk.targets')" />
+    <Import Project="$(NuGetPackageRoot)uno.ui.skia.gtk\4.1.8\build\Uno.UI.Skia.Gtk.targets" Condition="Exists('$(NuGetPackageRoot)uno.ui.skia.gtk\4.1.8\build\Uno.UI.Skia.Gtk.targets')" />
+  </ImportGroup>
+</Project>

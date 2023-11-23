@@ -1,0 +1,81 @@
+﻿@model DjStreamer.Models.Session.ClientSession
+
+@{
+    ViewData["Title"] = "Streaming";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script type="text/javascript" src="~/lib/jquery/dist/jquery.js"></script>
+    <script type="text/javascript">
+        var ws;
+        const mediaSource = new MediaSource();
+        var video;
+        var sourceBuffer;
+        var headerIn = false;
+
+        function sendHeart()
+        {
+            ws.send("HEART");
+            console.log("Heartbeat...");
+        }
+
+        $().ready(function () {
+            $("#btnConnect").click(function () {
+                $("#spanStatus").text("connecting");
+                
+                ws = new WebSocket("@Model.WebsocketUrl");
+                ws.binaryType = 'blob';
+                ws.onopen = function () {
+                    $("#spanStatus").text("connected");
+                    setInterval(sendHeart, 5000);
+                };
+                ws.onmessage = function (evt) {
+                    gotData(evt.data);
+                };
+                ws.onerror = function (evt) {
+                    $("#spanStatus").text(evt.message);
+                    clearInterval(sendHeart);
+                };
+                ws.onclose = function () {
+                    $("#spanStatus").text("disconnected");
+                    clearInterval(sendHeart);
+                };
+            });
+
+            video = document.getElementById("player");
+            video.src = URL.createObjectURL(mediaSource);
+
+            mediaSource.addEventListener('sourceopen', sourceOpen);
+
+            function sourceOpen(_) {
+                sourceBuffer = mediaSource.addSourceBuffer('audio/mpeg;');
+            };
+
+            $("#btnDisconnect").click(function () {
+                ws.close();
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        function gotData(data) {
+            var reader = new FileReader();
+            reader.readAsArrayBuffer(data);
+            reader.addEventListener("loadend", function (e) {
+                buffer = new Uint8Array(e.target.result);
+                //buffer = new Int8Array(e.target.result);
+                sourceBuffer.appendBuffer(buffer.buffer);
+            });
+         };
+    </script>
+</head>
+<body>
+    <input type="button" value="Connect" id="btnConnect" />
+    <input type="button" value="Disconnect" id="btnDisconnect" /><br />
+    <span id="spanStatus">(display)</span><br /><br />
+    <audio controls id="player" autoplay="autoplay"></audio>
+</body>
+</html>

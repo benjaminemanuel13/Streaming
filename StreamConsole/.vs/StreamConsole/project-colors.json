@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e42a6bd-7e87-46a0-99b9-d6275586abe9": {
+      "ProjectGuid": "0e42a6bd-7e87-46a0-99b9-d6275586abe9",
+      "DisplayName": "StreamConsole",
+      "ColorIndex": 0
+    },
+    "7b0d07ad-8a80-4878-8a4a-a28207ce223b": {
+      "ProjectGuid": "7b0d07ad-8a80-4878-8a4a-a28207ce223b",
+      "DisplayName": "StreamLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

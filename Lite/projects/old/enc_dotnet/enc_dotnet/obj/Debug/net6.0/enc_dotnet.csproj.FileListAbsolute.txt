@@ -1,0 +1,16 @@
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\bin\Debug\net6.0\enc_dotnet.exe
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\bin\Debug\net6.0\enc_dotnet.deps.json
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\bin\Debug\net6.0\enc_dotnet.runtimeconfig.json
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\bin\Debug\net6.0\enc_dotnet.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\bin\Debug\net6.0\ref\enc_dotnet.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\bin\Debug\net6.0\enc_dotnet.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\obj\Debug\net6.0\enc_dotnet.csproj.AssemblyReference.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\obj\Debug\net6.0\enc_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\obj\Debug\net6.0\enc_dotnet.AssemblyInfoInputs.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\obj\Debug\net6.0\enc_dotnet.AssemblyInfo.cs
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\obj\Debug\net6.0\enc_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\obj\Debug\net6.0\enc_dotnet.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\obj\Debug\net6.0\ref\enc_dotnet.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\obj\Debug\net6.0\enc_dotnet.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\obj\Debug\net6.0\enc_dotnet.genruntimeconfig.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\enc_dotnet\enc_dotnet\bin\Debug\net6.0\encode.dll

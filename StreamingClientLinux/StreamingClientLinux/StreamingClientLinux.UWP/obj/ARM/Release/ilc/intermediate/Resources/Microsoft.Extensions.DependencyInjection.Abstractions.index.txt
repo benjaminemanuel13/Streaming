@@ -1,0 +1,4 @@
+Microsoft.Extensions.DependencyInjection.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+  FxResources.Microsoft.Extensions.DependencyInjection.Abstractions.SR.resources
+  Microsoft.Extensions.DependencyInjection.Abstractions.Resources.Strings.resources
+  ILLink.Substitutions.xml

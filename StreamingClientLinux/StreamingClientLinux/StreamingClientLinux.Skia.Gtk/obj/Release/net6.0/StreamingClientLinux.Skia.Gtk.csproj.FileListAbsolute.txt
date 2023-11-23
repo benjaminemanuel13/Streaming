@@ -1,0 +1,180 @@
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\avcodec-58.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\avdevice-58.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\avfilter-7.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\avformat-58.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\avutil-56.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\postproc-55.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\stream.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\swresample-3.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\swscale-5.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\StreamingClientLinux.Skia.Gtk.exe
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Assets\StoreLogo.png
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Assets\Fonts\uno-fluentui-assets.ttf
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Assets\logo.png
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Assets\serpentine-bold.otf
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Assets\serpentine-bold.ttf
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Assets\SharedAssets.md
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\StreamingClientLinux.Skia.Gtk.deps.json
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\StreamingClientLinux.Skia.Gtk.runtimeconfig.json
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\StreamingClientLinux.Skia.Gtk.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\ref\StreamingClientLinux.Skia.Gtk.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\StreamingClientLinux.Skia.Gtk.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Foundation.Logging.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Foundation.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Composition.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Dispatching.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.FluentTheme.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.FluentTheme.v1.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.FluentTheme.v2.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Toolkit.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Xaml.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\AtkSharp.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\CairoSharp.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\CommonServiceLocator.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\GdkSharp.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\GioSharp.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\GLibSharp.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\GtkSharp.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\PangoSharp.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\SkiaSharp.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Core.Extensions.Logging.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Core.Extensions.Logging.Singleton.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Diagnostics.Eventing.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Foundation.Logging.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Adapter.Microsoft.Extensions.Logging.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Runtime.Skia.Gtk.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Foundation.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Composition.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Dispatching.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.FluentTheme.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.FluentTheme.v1.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.FluentTheme.v2.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Toolkit.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Xaml.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\StreamLibrary.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\StreamLibrary.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.csproj.AssemblyReference.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.AssemblyInfoInputs.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.AssemblyInfo.cs
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.csproj.CoreCompileInputs.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.csproj.CopyComplete
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\ref\StreamingClientLinux.Skia.Gtk.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.genruntimeconfig.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\avcodec-58.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\avdevice-58.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\avfilter-7.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\avformat-58.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\avutil-56.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\postproc-55.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\swresample-3.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\swscale-5.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\stream.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\StreamingClientLinux.Skia.Gtk.exe
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Assets\StoreLogo.png
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Assets\Fonts\uno-fluentui-assets.ttf
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Assets\logo.png
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Assets\serpentine-bold.otf
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Assets\serpentine-bold.ttf
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Assets\SharedAssets.md
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\StreamingClientLinux.Skia.Gtk.deps.json
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\StreamingClientLinux.Skia.Gtk.runtimeconfig.json
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\StreamingClientLinux.Skia.Gtk.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\StreamingClientLinux.Skia.Gtk.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Foundation.Logging.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Foundation.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Composition.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Dispatching.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.FluentTheme.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.FluentTheme.v1.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.FluentTheme.v2.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Toolkit.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Xaml.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\AtkSharp.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\CairoSharp.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\CommonServiceLocator.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\GdkSharp.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\GioSharp.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\GLibSharp.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\GtkSharp.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\PangoSharp.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\SkiaSharp.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Core.Extensions.Logging.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Core.Extensions.Logging.Singleton.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Diagnostics.Eventing.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Foundation.Logging.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Adapter.Microsoft.Extensions.Logging.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Runtime.Skia.Gtk.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Foundation.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Composition.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Dispatching.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.FluentTheme.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.FluentTheme.v1.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.FluentTheme.v2.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.UI.Toolkit.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\Uno.Xaml.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\linux-arm\native\libSkiaSharp.so
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\runtimes\linux-x64\native\libSkiaSharp.so
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\StreamLibrary.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\bin\Release\net6.0\StreamLibrary.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.csproj.AssemblyReference.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.AssemblyInfoInputs.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.AssemblyInfo.cs
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.csproj.CoreCompileInputs.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.csproj.CopyComplete
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\refint\StreamingClientLinux.Skia.Gtk.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\StreamingClientLinux.Skia.Gtk.genruntimeconfig.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.Skia.Gtk\obj\Release\net6.0\ref\StreamingClientLinux.Skia.Gtk.dll

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46566130-5220-4259-8f06-b0cddbdbd438": {
+      "ProjectGuid": "46566130-5220-4259-8f06-b0cddbdbd438",
+      "DisplayName": "StreamingClientWin",
+      "ColorIndex": 0
+    },
+    "9272b2ae-3fae-442b-8bf5-3f69f1ef8aa5": {
+      "ProjectGuid": "9272b2ae-3fae-442b-8bf5-3f69f1ef8aa5",
+      "DisplayName": "StreamLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,24 @@
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\bin\Release\net6.0\DjStreamer.Data.deps.json
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\bin\Release\net6.0\DjStreamer.Data.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\bin\Release\net6.0\ref\DjStreamer.Data.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\bin\Release\net6.0\DjStreamer.Data.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\DjStreamer.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\DjStreamer.Data.AssemblyInfoInputs.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\DjStreamer.Data.AssemblyInfo.cs
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\DjStreamer.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\DjStreamer.Data.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\ref\DjStreamer.Data.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\DjStreamer.Data.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\DjStreamer.Data.csproj.AssemblyReference.cache
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\bin\Release\net6.0\DjStreamer.Data.deps.json
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\bin\Release\net6.0\DjStreamer.Data.dll
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\bin\Release\net6.0\DjStreamer.Data.pdb
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\DjStreamer.Data.csproj.AssemblyReference.cache
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\DjStreamer.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\DjStreamer.Data.AssemblyInfoInputs.cache
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\DjStreamer.Data.AssemblyInfo.cs
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\DjStreamer.Data.csproj.CoreCompileInputs.cache
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\DjStreamer.Data.dll
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\refint\DjStreamer.Data.dll
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\DjStreamer.Data.pdb
+D:\Projects\$FFMpeg\$$Streaming\DjStreamer\DjStreamer.Data\obj\Release\net6.0\ref\DjStreamer.Data.dll

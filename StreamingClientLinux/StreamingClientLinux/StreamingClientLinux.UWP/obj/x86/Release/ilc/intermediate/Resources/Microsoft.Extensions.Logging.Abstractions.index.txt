@@ -1,0 +1,4 @@
+Microsoft.Extensions.Logging.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+  FxResources.Microsoft.Extensions.Logging.Abstractions.SR.resources
+  Microsoft.Extensions.Logging.Abstractions.Resources.Strings.resources
+  ILLink.Substitutions.xml

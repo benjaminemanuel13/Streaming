@@ -1,0 +1,3 @@
+Microsoft.Extensions.DependencyInjection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+  FxResources.Microsoft.Extensions.DependencyInjection.SR.resources
+  ILLink.Substitutions.xml

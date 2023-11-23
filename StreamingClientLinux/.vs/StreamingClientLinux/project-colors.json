@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6279c845-92f8-4333-ab99-3d213163593c": {
+      "ProjectGuid": "6279c845-92f8-4333-ab99-3d213163593c",
+      "DisplayName": "StreamingClientLinux.Shared",
+      "ColorIndex": 0
+    },
+    "ba142636-1fa3-4499-9fe0-66fd5cb69903": {
+      "ProjectGuid": "ba142636-1fa3-4499-9fe0-66fd5cb69903",
+      "DisplayName": "StreamingClientLinux.Wasm",
+      "ColorIndex": 1
+    },
+    "32ae9eb8-c9c3-464f-8c75-4ab02be736e3": {
+      "ProjectGuid": "32ae9eb8-c9c3-464f-8c75-4ab02be736e3",
+      "DisplayName": "StreamingClientLinux.Mobile",
+      "ColorIndex": 2
+    },
+    "6527fa86-da69-47df-b22f-384b321e9cd9": {
+      "ProjectGuid": "6527fa86-da69-47df-b22f-384b321e9cd9",
+      "DisplayName": "StreamingClientLinux.Skia.Wpf.Host",
+      "ColorIndex": 3
+    },
+    "c01ba6a2-997b-42ed-a73c-3b4a74b006ac": {
+      "ProjectGuid": "c01ba6a2-997b-42ed-a73c-3b4a74b006ac",
+      "DisplayName": "StreamingClientLinux.Skia.Gtk",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2e149c78-6dc3-4795-ac2f-5cfa05afa08e": {
+      "ProjectGuid": "2e149c78-6dc3-4795-ac2f-5cfa05afa08e",
+      "DisplayName": "StreamLibrary",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

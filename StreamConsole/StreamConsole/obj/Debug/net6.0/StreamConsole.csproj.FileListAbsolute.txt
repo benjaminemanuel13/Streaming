@@ -1,0 +1,54 @@
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.csproj.AssemblyReference.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.AssemblyInfoInputs.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.AssemblyInfo.cs
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.csproj.CoreCompileInputs.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\avcodec-58.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\avdevice-58.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\avfilter-7.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\avformat-58.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\avutil-56.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\postproc-55.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\stream.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\swresample-3.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\swscale-5.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\StreamConsole.exe
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\StreamConsole.deps.json
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\StreamConsole.runtimeconfig.json
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\StreamConsole.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\ref\StreamConsole.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\StreamConsole.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\StreamLibrary.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\StreamLibrary.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.csproj.CopyComplete
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\ref\StreamConsole.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.genruntimeconfig.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\avcodec-58.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\avdevice-58.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\avfilter-7.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\avformat-58.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\avutil-56.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\postproc-55.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\stream.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\swresample-3.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\swscale-5.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\StreamConsole.exe
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\StreamConsole.deps.json
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\StreamConsole.runtimeconfig.json
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\StreamConsole.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\StreamConsole.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\StreamLibrary.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\bin\Debug\net6.0\StreamLibrary.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.csproj.AssemblyReference.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.AssemblyInfoInputs.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.AssemblyInfo.cs
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.csproj.CoreCompileInputs.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.csproj.CopyComplete
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\refint\StreamConsole.dll
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.pdb
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\StreamConsole.genruntimeconfig.cache
+D:\Projects\$FFMpeg\$$Streaming\StreamConsole\StreamConsole\obj\Debug\net6.0\ref\StreamConsole.dll

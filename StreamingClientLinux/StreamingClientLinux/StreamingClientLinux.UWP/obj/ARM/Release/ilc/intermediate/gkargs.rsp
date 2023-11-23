@@ -1,0 +1,13 @@
+﻿"C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\ARM\Release\ilc\in\CommonServiceLocator.dll"
+"C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\ARM\Release\ilc\in\StreamingClientLinux.exe"
+"C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\ARM\Release\ilc\in\Uno.Core.Extensions.Logging.Singleton.dll"
+"C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\ARM\Release\ilc\in\Uno.Diagnostics.Eventing.dll"
+"C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\ARM\Release\ilc\in\Uno.Foundation.Logging.dll"
+"C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\ARM\Release\ilc\in\Uno.UI.Toolkit.dll"
+/Lib:"C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\ARM\Release\ilc\in"
+/Lib:"C:\Users\Ben Emanuel\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.2.9-rel-29512-01\tools\ARM\ilc\lib\Private"
+/WinMD:"C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\ARM\Release\ilc\in\WinMetadata\Microsoft.UI.Xaml.winmd"
+/WinMD:"C:\Users\Ben Emanuel\source\$FFMpeg\$$Streaming\StreamingClientLinux\StreamingClientLinux\StreamingClientLinux.UWP\obj\ARM\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{\"IsOptedIn\":true,\"HostName\":\"Dev14\",\"AppInsightsInstrumentationKey\":\"f144292e-e3b2-4011-ac90-20e5c03fbce5\",\"AsimovInstrumentationKey\":\"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\",\"AppId\":1001,\"UserId\":\"4401ff9c-2da1-4939-9eda-6842723eab61\",\"Id\":\"09312f2b-43cd-48e6-824d-13465d078dc2\",\"ProcessStartTime\":637832888416467172}"
+/RdXmlPath:"C:\Users\Ben Emanuel\.nuget\packages\microsoft.net.native.compiler\2.2.9-rel-29512-01\tools\LibraryXML"
+/RunOnlyPreDR
