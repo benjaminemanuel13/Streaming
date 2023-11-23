@@ -7,4 +7,4 @@ StreamConsole contains the StreamLibrary used by the clients.
 
 capture is the low level c++ used by the Clients. (stream.dll)
 
-The other projects are utilities/unfinished.
+Lite is whats deployed to Linux (tested on RaspberyPi) and old version of capture.
